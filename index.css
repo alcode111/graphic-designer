@@ -17,6 +17,11 @@ img {
     margin: 0 auto;
 }
 
+header,
+section {
+    padding: 100px 0;
+}
+
 h1, h2 {
     font-weight: 300;
 }
