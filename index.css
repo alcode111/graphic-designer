@@ -86,6 +86,12 @@ a:focus {
     color: #FFF;
 }
 
+.inverse .btn:hover,
+.inverse .btn:focus {
+    background: #fff;
+    color: #252525;
+}
+
 .btn {
     display: inline-block;
     padding: 10px 20px;
