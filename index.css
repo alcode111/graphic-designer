@@ -52,17 +52,23 @@ h3 {
     margin-top: 0;
 }
 
-span {
+.accent-text {
     display: block;
-    font-weight: 900;
 }
 
-h1 .span {
-    font-size: 80px;
+h1 .accent-text {
+    font-size: 80px
 }
 
-h2 .span {
+h2 .accent-text {
     font-size: 60px;
+}
+
+.accent-text,
+.name,
+time {
+    font-weight: 900;
+    color: #99D930;
 }
 
 a {
