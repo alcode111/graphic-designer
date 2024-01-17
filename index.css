@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.container {
+    width: 570px;
+    margin: 0 auto;
+}
