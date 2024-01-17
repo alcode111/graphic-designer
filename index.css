@@ -25,6 +25,7 @@ section {
 
 h1, h2 {
     font-weight: 300;
+    margin-top: 0;
 }
 
 h1 {
@@ -38,10 +39,12 @@ h2 {
 h3 {
     font-size: 36px;
     font-weight: 900;
+    margin-bottom: 0;
 }
 
 .small-text {
     font-size: 16px;
+    margin-top: 0;
 }
 
 span {
